@@ -1,7 +1,7 @@
 [
 	{
 		"id":1,
-		"food_name":"Steamed Chicken Rice",
+		"food_name":"Roasted Chicken Rice",
 		"when_eaten":"23/1/2021",
 		"calories": 600,
 		"meal":"lunch"
