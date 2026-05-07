@@ -15,7 +15,8 @@
             },
             {
                 "topicId": 3,
-                "title": "Advanced Features"
+                "title": "Advanced Features",
+                "hours": 3
             }
         ]
     },
@@ -35,7 +36,8 @@
             },
             {
                 "topicId": 3,
-                "title": "JavaScript Basics"
+                "title": "JavaScript Basics",
+                "hours": 5
             },
             {
                 "topicId": 4,
@@ -60,12 +62,13 @@
             },
             {
                 "topicId": 3,
-                "title": "NumPy Basics"
+                "title": "NumPy Basics",
+                "hours": 3
             },
             {
                 "topicId": 4,
                 "title": "Matplotlib Basics",
-                "hours": 6
+                "hours": 5
             }
         ]
     }
